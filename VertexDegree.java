@@ -1,3 +1,5 @@
+//4.Write a java program, given the pair of vertex associated to the edges of an undirected graph, it will output the degree of
+//vertex
 import java.util.*;
 
 public class VertexDegree {

@@ -1,3 +1,5 @@
+//2.Write a java program that accepts an adjacency matrix of a graph. The program should list the edges of this graph and give
+//the number of times each edge appears.
 import java.util.*;
 
 public class AdjacencyMatrixGraph {

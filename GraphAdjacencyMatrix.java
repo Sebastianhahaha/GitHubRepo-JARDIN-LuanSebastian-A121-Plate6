@@ -1,3 +1,5 @@
+//6.Write a java program that receives the vertex pairs associated to the edges of a graph, the program should construct an
+//adjacency matrix for the graph. (Produce a version that works when loops, multiple edges, or directed edges are present.)
 import java.util.*;
 
 public class GraphAdjacencyMatrix {

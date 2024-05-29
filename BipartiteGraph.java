@@ -1,3 +1,4 @@
+//5.Write a java program that receives a list of edges of a simple graph and determine whether the graph is bipartite
 import java.util.*;
 
 public class BipartiteGraph {
